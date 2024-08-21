@@ -5,7 +5,7 @@
 ### C1 Level
 ```plantuml
 @startuml S611_SICOF_Context
-!include <C4/C4_Container.puml>
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
 
 SHOW_PERSON_OUTLINE()
 Person(usuario, "Usuário", "O usuário pode ser qualquer funcionário ou parceiro com acesso aos sistemas do banco")
