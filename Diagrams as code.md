@@ -111,6 +111,14 @@ struct          struct
 ## recommends
 Overall, the speaker recommends Mermaid if you are looking for an easy-to-use diagramming tool that integrates with VS Code and markdown. If you need a more extensive diagramming tool with lots of control, then PlantUML is a good choice. Finally, if you have limited diagramming needs and want a really easy-to-use tool, then HackerDraw is worth considering. 
 
+## Python Diagrams [1](https://github.com/mingrammer/diagrams)
+
+Diagrams lets you draw the cloud system architecture in Python code.
+
+## Go-Diagrams [2](https://github.com/blushft/go-diagrams) [3](https://diagrams.mingrammer.com/docs/getting-started/examples)
+
+Go-Diagrams will create a folder in the current working directory with the graphviz DOT file and any image assets.
+
 ## References
 
 1. [Mermaid live](https://mermaid.live/)
